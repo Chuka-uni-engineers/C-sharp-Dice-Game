@@ -1,0 +1,14 @@
+C:\Users\bitworm\OneDrive\Documents\C-Sharp\VS\Dice-rolling-game\Dice-rolling-game\bin\Debug\net7.0\Dice-rolling-game.exe
+C:\Users\bitworm\OneDrive\Documents\C-Sharp\VS\Dice-rolling-game\Dice-rolling-game\bin\Debug\net7.0\Dice-rolling-game.deps.json
+C:\Users\bitworm\OneDrive\Documents\C-Sharp\VS\Dice-rolling-game\Dice-rolling-game\bin\Debug\net7.0\Dice-rolling-game.runtimeconfig.json
+C:\Users\bitworm\OneDrive\Documents\C-Sharp\VS\Dice-rolling-game\Dice-rolling-game\bin\Debug\net7.0\Dice-rolling-game.dll
+C:\Users\bitworm\OneDrive\Documents\C-Sharp\VS\Dice-rolling-game\Dice-rolling-game\bin\Debug\net7.0\Dice-rolling-game.pdb
+C:\Users\bitworm\OneDrive\Documents\C-Sharp\VS\Dice-rolling-game\Dice-rolling-game\obj\Debug\net7.0\Dice-rolling-game.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bitworm\OneDrive\Documents\C-Sharp\VS\Dice-rolling-game\Dice-rolling-game\obj\Debug\net7.0\Dice-rolling-game.AssemblyInfoInputs.cache
+C:\Users\bitworm\OneDrive\Documents\C-Sharp\VS\Dice-rolling-game\Dice-rolling-game\obj\Debug\net7.0\Dice-rolling-game.AssemblyInfo.cs
+C:\Users\bitworm\OneDrive\Documents\C-Sharp\VS\Dice-rolling-game\Dice-rolling-game\obj\Debug\net7.0\Dice-rolling-game.csproj.CoreCompileInputs.cache
+C:\Users\bitworm\OneDrive\Documents\C-Sharp\VS\Dice-rolling-game\Dice-rolling-game\obj\Debug\net7.0\Dice-rolling-game.dll
+C:\Users\bitworm\OneDrive\Documents\C-Sharp\VS\Dice-rolling-game\Dice-rolling-game\obj\Debug\net7.0\refint\Dice-rolling-game.dll
+C:\Users\bitworm\OneDrive\Documents\C-Sharp\VS\Dice-rolling-game\Dice-rolling-game\obj\Debug\net7.0\Dice-rolling-game.pdb
+C:\Users\bitworm\OneDrive\Documents\C-Sharp\VS\Dice-rolling-game\Dice-rolling-game\obj\Debug\net7.0\Dice-rolling-game.genruntimeconfig.cache
+C:\Users\bitworm\OneDrive\Documents\C-Sharp\VS\Dice-rolling-game\Dice-rolling-game\obj\Debug\net7.0\ref\Dice-rolling-game.dll

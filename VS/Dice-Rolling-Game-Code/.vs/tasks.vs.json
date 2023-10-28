@@ -1,0 +1,15 @@
+{
+  "version": "0.2.1",
+  "tasks": [
+    {
+      "taskLabel": "task-Program2",
+      "appliesTo": "C#Basics/Program2.cs",
+      "type": "launch"
+    },
+    {
+      "taskLabel": "task-Dice-rolling-game",
+      "appliesTo": "/",
+      "type": "launch"
+    }
+  ]
+}
