@@ -7,68 +7,17 @@ using static System.Runtime.CompilerServices.RuntimeHelpers;
 Console.WriteLine("\tROLL THE DICE GAME");
 Console.Write("For game rules enter \"R\" ");
 Console.Write("To play enter \"P\"> ");
-Console.WriteLine();
 var pressedKey = Console.ReadKey(true);
+Console.WriteLine();
 
-<<<<<<< HEAD
-do
-=======
 
 while ((pressedKey.Key != ConsoleKey.R) && (pressedKey.Key != ConsoleKey.P))
->>>>>>> 956a75b (A <while...> is better than a <do...while...> for this case.)
 {
     Console.WriteLine("\tROLL THE DICE GAME");    
     Console.Write("For game rules enter \"R\" ");
     Console.WriteLine("To play enter \"P\"> ");
     pressedKey = Console.ReadKey(true);
-<<<<<<< HEAD
-
-    switch (pressedKey.Key)
-    {
-        case ConsoleKey.R:
-            System.Threading.Thread.Sleep(500);
-            Console.WriteLine();
-            Console.WriteLine("\tRULES");
-            System.Threading.Thread.Sleep(200); Console.Write("This "); System.Threading.Thread.Sleep(200); Console.Write("is ");
-            System.Threading.Thread.Sleep(200); Console.Write("a "); System.Threading.Thread.Sleep(200); Console.Write("game ");
-            System.Threading.Thread.Sleep(200); Console.Write("of "); System.Threading.Thread.Sleep(200); Console.Write("1 ");
-            System.Threading.Thread.Sleep(200); Console.Write("or "); System.Threading.Thread.Sleep(200); Console.Write("a ");
-            System.Threading.Thread.Sleep(200); Console.Write("multiplayer "); System.Threading.Thread.Sleep(200); Console.Write("mode ");
-            System.Threading.Thread.Sleep(200); Console.Write("of "); System.Threading.Thread.Sleep(200); Console.Write("upto ");
-            System.Threading.Thread.Sleep(200); Console.Write("4 "); System.Threading.Thread.Sleep(200); Console.WriteLine("players. ");
-            System.Threading.Thread.Sleep(200); Console.Write("It "); System.Threading.Thread.Sleep(200); Console.Write("consists ");
-            System.Threading.Thread.Sleep(200); Console.Write("of "); System.Threading.Thread.Sleep(200); Console.Write("6 ");
-            System.Threading.Thread.Sleep(200); Console.Write("rounds. "); System.Threading.Thread.Sleep(200); Console.Write("You ");
-            System.Threading.Thread.Sleep(200); Console.Write("press "); System.Threading.Thread.Sleep(200); Console.Write("any ");
-            System.Threading.Thread.Sleep(200); Console.Write("key "); System.Threading.Thread.Sleep(200); Console.Write("to ");
-            System.Threading.Thread.Sleep(200); Console.Write("roll "); System.Threading.Thread.Sleep(200); Console.Write("the ");
-            System.Threading.Thread.Sleep(200); Console.WriteLine("dice. "); System.Threading.Thread.Sleep(200); Console.Write("The ");
-            System.Threading.Thread.Sleep(200); Console.Write("player "); System.Threading.Thread.Sleep(200); Console.Write("who ");
-            System.Threading.Thread.Sleep(200); Console.Write("rolls "); System.Threading.Thread.Sleep(200); Console.Write("a ");
-            System.Threading.Thread.Sleep(200); Console.Write("higher "); System.Threading.Thread.Sleep(200); Console.Write("number ");
-            System.Threading.Thread.Sleep(200); Console.Write("gets "); System.Threading.Thread.Sleep(200); Console.Write("one ");
-            System.Threading.Thread.Sleep(200); Console.Write("point. "); System.Threading.Thread.Sleep(200); Console.Write("The ");
-            System.Threading.Thread.Sleep(200); Console.WriteLine("one "); System.Threading.Thread.Sleep(500); Console.Write("with ");
-            System.Threading.Thread.Sleep(200); Console.Write("most "); System.Threading.Thread.Sleep(200); Console.Write("points ");
-            System.Threading.Thread.Sleep(200); Console.Write("at "); System.Threading.Thread.Sleep(200); Console.Write("the ");
-            System.Threading.Thread.Sleep(200); Console.Write("end "); System.Threading.Thread.Sleep(200); Console.Write("of ");
-            System.Threading.Thread.Sleep(200); Console.Write("the "); System.Threading.Thread.Sleep(200); Console.Write("game ");
-            System.Threading.Thread.Sleep(200); Console.WriteLine("wins.\n"); System.Threading.Thread.Sleep(200); Console.WriteLine("\tDEVELOPER");
-            System.Threading.Thread.Sleep(200); Console.Write("Boniface "); System.Threading.Thread.Sleep(200); Console.Write("Sitati ");
-            System.Threading.Thread.Sleep(200); Console.WriteLine("@bit_worm"); System.Threading.Thread.Sleep(200); Console.Write("\t-TitanBit ");
-            System.Threading.Thread.Sleep(200); Console.WriteLine("Solutions LTD.\n"); System.Threading.Thread.Sleep(200); Console.WriteLine("\tDEDICATION");
-            System.Threading.Thread.Sleep(200); Console.Write("Dedicated "); System.Threading.Thread.Sleep(200); Console.Write("to ");
-            System.Threading.Thread.Sleep(200); Console.Write("A "); System.Threading.Thread.Sleep(200); Console.Write("BETTER ");
-            System.Threading.Thread.Sleep(200); Console.WriteLine("TOMMORROW.");
-            System.Threading.Thread.Sleep(200); Console.Write("ENJOY :) "); System.Threading.Thread.Sleep(200); Console.WriteLine("CHEERS!!\n"); ;
-            break;
-
-        case ConsoleKey.P:
-            Console.WriteLine();
-            break;
-    }
-} while ((pressedKey.Key != ConsoleKey.R) && (pressedKey.Key != ConsoleKey.P));
-=======
+    Console.WriteLine();
 }
 
 switch (pressedKey.Key)
@@ -115,8 +64,6 @@ switch (pressedKey.Key)
         Console.WriteLine();
         break;
 }
->>>>>>> 956a75b (A <while...> is better than a <do...while...> for this case.)
-
 
 System.Threading.Thread.Sleep(200); Console.Write("Enter "); System.Threading.Thread.Sleep(200); Console.Write("the ");
 System.Threading.Thread.Sleep(200); Console.Write("number "); System.Threading.Thread.Sleep(200); Console.Write("of ");
