@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "q1GcepCP95khzCRLpws4OwjQzvitHi2rJRF5byyXF7N1nmwYpHczMVn507gcpOW3qYVDsBEj7OXVlwH0Ps0IHQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\bitworm\\OneDrive\\Documents\\C-Sharp\\VS\\Dice-rolling-game\\Dice-game\\Dice-game\\Dice-game.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\bitworm\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x86\\8.0.0-rc.2.23479.6\\microsoft.netcore.app.runtime.win-x86.8.0.0-rc.2.23479.6.nupkg.sha512",
+    "C:\\Users\\bitworm\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x86\\8.0.0-rc.2.23479.10\\microsoft.windowsdesktop.app.runtime.win-x86.8.0.0-rc.2.23479.10.nupkg.sha512",
+    "C:\\Users\\bitworm\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x86\\8.0.0-rc.2.23480.2\\microsoft.aspnetcore.app.runtime.win-x86.8.0.0-rc.2.23480.2.nupkg.sha512"
+  ],
+  "logs": []
+}
